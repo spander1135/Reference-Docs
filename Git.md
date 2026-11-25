@@ -10,7 +10,12 @@ cd C:\\root-folder\\folder-name\\repo-folder
 git status
 ```
 
+### Git Add
 ``` bash
+# Stages single file or folder
+git add <file>
+
+# Stages all new, modified, and deleted files in the current directory
 git add .
 ```
 
